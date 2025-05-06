@@ -1,8 +1,8 @@
 {
   "name": "Ethereum TokenList",
-  "logoURI": "ipfs://bafkreic6n3leywchjk2v2jtfrga5rkwp2nbekxftboyonud4hbqoneoaca",
+  "logoURI": "ipfs://bafybeiejdcoxcvoqimtjkowf44fbzjg7buupqrn43vmwlfbex2i7robh44",
   "keywords": ["defi", "airdrop", "ethereum", "ethdropverse"],
-  "timestamp": "2025-05-02T00:00:00+00:00",
+  "timestamp": "2025-05-07T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -10,12 +10,12 @@
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "ipfs://bafkreic6n3leywchjk2v2jtfrga5rkwp2nbekxftboyonud4hbqoneoaca"
+      "logoURI": "ipfs://bafybeiejdcoxcvoqimtjkowf44fbzjg7buupqrn43vmwlfbex2i7robh44"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
